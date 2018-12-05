@@ -1,2 +1,2 @@
 # multiclass
-Test of the MSSA classifier on artificial and read datasets
+Test of the MSSA classifier on artificial and real datasets
